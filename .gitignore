@@ -16,6 +16,7 @@
 # 유니티 자동 생성 에셋 데이터
 Assets/AssetStoreTools*
 /Assets/Plugins/Editor/JetBrains*
+Assets/Resources/Auth/vertex_key.json
 
 # OS 관련 파일
 .DS_Store
