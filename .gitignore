@@ -1,0 +1,22 @@
+﻿/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Cc]logs/
+/[MemoryCaptures]/
+
+# 라이더 및 비주얼 스튜디오 관련 자동 생성 파일
+.idea/
+*.sln
+*.csproj
+*.unitypackage
+*.userprefs
+
+# 유니티 자동 생성 에셋 데이터
+Assets/AssetStoreTools*
+/Assets/Plugins/Editor/JetBrains*
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
